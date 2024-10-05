@@ -1,0 +1,74 @@
+Q1: How can I contact customer support?
+Q2: What is the best way to reach out to customer service?
+A: You can contact customer support via phone, email, or live chat on our website.
+R: (contact|get in touch|reach out|speak to).*(customer support|customer service|support team)
+
+Q1: How do I reset my password?
+Q2: What should I do if I forgot my account password?
+A: You can reset your password by visiting the "Forgot Password" link on the login page.
+R: (reset|forgot).*(password|account password|login pass|credentials)
+
+Q1: What payment methods are accepted?
+Q2: How can I pay my invoice or bill?
+A: We accept credit cards, PayPal, and bank transfers. You can pay your invoice through the payment portal.
+R: (payment methods|accepted payments|pay invoice|pay bill|pay my invoice).*(credit card|PayPal|bank transfer|payment portal|methods of payment)
+
+Q1: How do I cancel my subscription?
+Q2: What is the process to end my membership?
+A: You can cancel your subscription by going to the account settings and selecting "Cancel Subscription".
+R: (cancel|end|stop|terminate).*(subscription|membership|service)
+
+Q1: What is your refund policy?
+Q2: How can I request a refund for my purchase?
+A: We offer refunds within 30 days of purchase. To request a refund, contact customer support.
+R: (refund policy|refund rules|request a refund|get a refund).*(purchase|transaction|order|money back)
+
+Q1: Where can I find my order history?
+Q2: How do I view my previous purchases?
+A: You can view your order history in the "My Orders" section of your account.
+R: (find|view|check|access).*(order history|previous purchases|past orders|transaction history).*(account|my account)
+
+Q1: How can I update my billing information?
+Q2: What is the process to change my payment details?
+A: You can update your billing information in the account settings under the "Billing" section.
+R: (update|change|modify|edit).*(billing information|payment details|billing info|payment information)
+
+Q1: How can I track my delivery?
+Q2: Where can I find my order tracking details?
+A: You can track your delivery by logging into your account and checking the "Track Order" section.
+R: (track|check|find).*(delivery|shipment|order).*(tracking details|tracking status|track order)
+
+Q1: How can I deactivate my account?
+Q2: What do I need to do to close my account?
+A: You can deactivate or close your account by visiting the account settings and following the instructions under "Close Account."
+R: (deactivate|close|terminate|disable).*(account|profile)
+
+Q1: How do I report a technical issue on the website?
+Q2: What should I do if I encounter a problem using your site?
+A: You can report technical issues by contacting our support team or by using the "Report an Issue" form on the website.
+R: (report|notify|submit).*(technical issue|problem|error|bug|issue).*(website|site)
+
+Q1: Is your service available internationally?
+Q2: Can I use your service outside of my country?
+A: Yes, our service is available internationally, and you can use it from anywhere with an internet connection.
+R: (service availability|use your service).*(internationally|outside|abroad|another country|globally)
+
+Q1: Where can I find pricing details?
+Q2: How do I check the cost of your services?
+A: You can view all pricing details on the "Pricing" page on our website.
+R: (pricing|price|cost|fees).*(services|products).*(find|check|view|access|details)
+
+Q1: How can I create an account?
+Q2: What steps should I follow to sign up for an account?
+A: You can create an account by visiting our homepage and clicking the "Sign Up" button.
+R: (create an account|sign up|register).*(account|profile|new account|signup process)
+
+Q1: How do I renew my subscription?
+Q2: What is the process to renew my service membership?
+A: You can renew your subscription by visiting the "My Subscription" section and selecting "Renew."
+R: (renew|re-subscribe|rejoin).*(subscription|membership|service).*(process|steps|how to)
+
+Q1: How long will my delivery take?
+Q2: When should I expect my order to arrive?
+A: Delivery times vary by location and shipping method. You can find your estimated delivery time in the "Track Order" section of your account.
+R: (delivery time|shipping duration|time to arrive|estimated arrival).*(order|shipment|package|delivery)
